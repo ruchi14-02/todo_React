@@ -1,0 +1,12 @@
+.main_div{
+    background-color: blueviolet;
+    height:400px;
+    width:300px;
+    display: flex;
+    align-items: centers;
+    border-radius: 5px;
+    box-shadow: 3px 3px grey;
+}
+.style_list{
+    list-style-type: none;
+}
